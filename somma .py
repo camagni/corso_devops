@@ -1,4 +1,4 @@
-#prova programma phyton
+#prova programma phytongit push origin master
 numero1 = int(input("Inserisci il primo numero: "))
 numero2 = int(input("Inserisci il secondo numero: "))
 somma = numero1 + numero2
